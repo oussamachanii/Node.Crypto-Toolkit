@@ -18,7 +18,7 @@
     "examples",
     "lib"
   ],
-  "main": "./crypto-toolkit.js",
+  "main": "./main.js",
   "author": "Andi Dittrich (http://andidittrich.de)",
   "license": "MIT",
   "dependencies": {
